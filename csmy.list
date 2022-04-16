@@ -1,4 +1,5 @@
 PROCESS-NAME,msedge.exe
+PROCESS-NAME,aDrive.exe
 PROCESS-NAME,Evernote.exe
 PROCESS-NAME,EvernoteClipper.exe
 PROCESS-NAME,EvernoteSubprocess.exe
